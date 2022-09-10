@@ -45,6 +45,8 @@
 		E3411D8428CCBED500E45DB8 /* popup.css in Resources */ = {isa = PBXBuildFile; fileRef = E3411D3428CCBED500E45DB8 /* popup.css */; };
 		E3411D8528CCBED500E45DB8 /* popup.js in Resources */ = {isa = PBXBuildFile; fileRef = E3411D3528CCBED500E45DB8 /* popup.js */; };
 		E3411D8628CCBED500E45DB8 /* popup.js in Resources */ = {isa = PBXBuildFile; fileRef = E3411D3528CCBED500E45DB8 /* popup.js */; };
+		E3411D9E28CCC90000E45DB8 /* devtools in Resources */ = {isa = PBXBuildFile; fileRef = E3411D9D28CCC8FF00E45DB8 /* devtools */; };
+		E3411D9F28CCC90000E45DB8 /* devtools in Resources */ = {isa = PBXBuildFile; fileRef = E3411D9D28CCC8FF00E45DB8 /* devtools */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -120,6 +122,7 @@
 		E3411D6228CCBED500E45DB8 /* test-devtools Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "test-devtools Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E3411D6728CCBED500E45DB8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E3411D6828CCBED500E45DB8 /* test-devtools.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "test-devtools.entitlements"; sourceTree = "<group>"; };
+		E3411D9D28CCC8FF00E45DB8 /* devtools */ = {isa = PBXFileReference; lastKnownFileType = folder; path = devtools; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -203,6 +206,7 @@
 				E3411D2E28CCBED500E45DB8 /* _locales */,
 				E3411D2F28CCBED500E45DB8 /* images */,
 				E3411D3028CCBED500E45DB8 /* manifest.json */,
+				E3411D9D28CCC8FF00E45DB8 /* devtools */,
 				E3411D3128CCBED500E45DB8 /* background.js */,
 				E3411D3228CCBED500E45DB8 /* content.js */,
 				E3411D3328CCBED500E45DB8 /* popup.html */,
@@ -416,6 +420,7 @@
 			files = (
 				E3411D7D28CCBED500E45DB8 /* background.js in Resources */,
 				E3411D8328CCBED500E45DB8 /* popup.css in Resources */,
+				E3411D9E28CCC90000E45DB8 /* devtools in Resources */,
 				E3411D8128CCBED500E45DB8 /* popup.html in Resources */,
 				E3411D7928CCBED500E45DB8 /* images in Resources */,
 				E3411D7B28CCBED500E45DB8 /* manifest.json in Resources */,
@@ -431,6 +436,7 @@
 			files = (
 				E3411D7E28CCBED500E45DB8 /* background.js in Resources */,
 				E3411D8428CCBED500E45DB8 /* popup.css in Resources */,
+				E3411D9F28CCC90000E45DB8 /* devtools in Resources */,
 				E3411D8228CCBED500E45DB8 /* popup.html in Resources */,
 				E3411D7A28CCBED500E45DB8 /* images in Resources */,
 				E3411D7C28CCBED500E45DB8 /* manifest.json in Resources */,
